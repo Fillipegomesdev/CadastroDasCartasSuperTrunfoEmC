@@ -1,0 +1,13 @@
+# Arquivos binários
+*.exe
+*.out
+*.o
+
+# Pastas de build
+/build/
+bin/
+
+# Configurações do editor
+.vscode/
+*.idea/
+
